@@ -1,20 +1,18 @@
-A minimal Syncthing Discovery Server built on top of Alpine Linux.
-
 # Supported tags and respective `Dockerfile` links
 
--	[`1.8.5`, `latest`](https://github.com/bradcordeiro/stdiscosrv-docker/blob/master/Dockerfile)
+-	[`1.8.6`, `latest`](https://github.com/bradcordeiro/stdiscosrv-docker/blob/master/Dockerfile)
 
 # What is Syncthing?
 
 Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it's transmitted over the internet.
 
-> [https://syncthing.net](https://syncthing.net)
+> https://syncthing.net
 
 # What is Syncthing Discovery Server?
 
  Syncthing relies on a discovery server to find peers on the internet. Anyone can run a discovery server and point Syncthing installations to it. The Syncthing project also maintains a global cluster for public use.
 
-> [https://docs.syncthing.net/users/stdiscosrv.html](https://docs.syncthing.net/users/stdiscosrv.html)
+> https://docs.syncthing.net/users/stdiscosrv.html
 
 # How to use this image
 
