@@ -31,7 +31,6 @@ Additional [parameters for the stdiscosrv](https://docs.syncthing.net/users/stdi
 Example `stack.yml` for `postgres`:
 
 ```yaml
-# Use postgres/example user/password credentials
 version: '3.1'
 
 services:
